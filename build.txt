@@ -1,0 +1,11 @@
+﻿  Determinando los proyectos que se van a restaurar...
+  Todos los proyectos est├ín actualizados para la restauraci├│n.
+  Hotel_Pavon -> C:\Users\Daniel\Documents\Google Antigravity projects\Hotel_Pavon_2027\bin\Debug\net9.0\Hotel_Pavon.dll
+
+Compilaci├│n correcta.
+    0 Advertencia(s)
+    0 Errores
+
+Tiempo transcurrido 00:00:01.96
+
+Hay actualizaciones de carga de trabajo disponibles. Ejecute "dotnet workload list" para obtener m├ís informaci├│n.

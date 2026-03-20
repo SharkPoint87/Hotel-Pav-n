@@ -1,0 +1,18 @@
+  Determinando los proyectos que se van a restaurar...
+  Writing C:\Users\Daniel\AppData\Local\Temp\tmplv2ohn.tmp
+error: Identificador de referencia cultural no válido en la variable de entorno DOTNET_CLI_UI_LANGUAGE. El valor leído es 'en '.
+info : La validación de la cadena de certificados X.509 utilizará el almacén de confianza predeterminado seleccionado por .NET para la firma de código.
+info : La validación de la cadena de certificados X.509 utilizará el almacén de confianza predeterminado seleccionado por .NET para la marca de tiempo.
+info : Agregando PackageReference para el paquete "Microsoft.EntityFrameworkCore.SqlServer" al proyecto "C:\Users\Daniel\Documents\Google Antigravity projects\Hotel_Pavon_2027\Hotel_Pavon.csproj".
+info :   CACHE https://api.nuget.org/v3/registration5-gz-semver2/microsoft.entityframeworkcore.sqlserver/index.json
+info :   CACHE https://api.nuget.org/v3/registration5-gz-semver2/microsoft.entityframeworkcore.sqlserver/page/0.0.1-alpha/3.1.2.json
+info :   CACHE https://api.nuget.org/v3/registration5-gz-semver2/microsoft.entityframeworkcore.sqlserver/page/3.1.3/6.0.0-preview.6.21352.1.json
+info :   CACHE https://api.nuget.org/v3/registration5-gz-semver2/microsoft.entityframeworkcore.sqlserver/page/6.0.0-preview.7.21378.4/7.0.17.json
+info :   CACHE https://api.nuget.org/v3/registration5-gz-semver2/microsoft.entityframeworkcore.sqlserver/page/7.0.18/10.0.0-preview.3.25171.6.json
+info :   CACHE https://api.nuget.org/v3/registration5-gz-semver2/microsoft.entityframeworkcore.sqlserver/page/10.0.0-preview.4.25258.110/11.0.0-preview.2.26159.112.json
+info : Restaurando paquetes para C:\Users\Daniel\Documents\Google Antigravity projects\Hotel_Pavon_2027\Hotel_Pavon.csproj...
+info :   CACHE https://api.nuget.org/v3/vulnerabilities/index.json
+info :   CACHE https://api.nuget.org/v3-vulnerabilities/2026.03.17.23.38.53/vulnerability.base.json
+info :   CACHE https://api.nuget.org/v3-vulnerabilities/2026.03.17.23.38.53/2026.03.17.23.38.53/vulnerability.update.json
+error: NU1202: El paquete Microsoft.EntityFrameworkCore.SqlServer 10.0.5 no es compatible con net9.0 (.NETCoreApp,Version=v9.0). El paquete Microsoft.EntityFrameworkCore.SqlServer 10.0.5 admite: net10.0 (.NETCoreApp,Version=v10.0)
+error: El paquete "Microsoft.EntityFrameworkCore.SqlServer" no es compatible con los marcos de trabajo de "all" del proyecto "C:\Users\Daniel\Documents\Google Antigravity projects\Hotel_Pavon_2027\Hotel_Pavon.csproj".
